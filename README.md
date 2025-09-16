@@ -1,16 +1,5 @@
 # Bank-loan-analysis-PowerBI
 
-<!-- ────────────────────────────── -->
-<!-- HERO / THUMBNAIL              -->
-<!-- Replace banner.png with a     -->
-<!-- wide screenshot (~1600 × 400) -->
-<!-- ────────────────────────────── -->
-
-<p align="center">
-  <img src="assets/banner.png" alt="Bank-Loan Analytics Dashboard – Power BI"/>
-</p>
-
-<h1 align="center">Bank-Loan Analytics Dashboard 📊</h1>
 <p align="center">
   Credit-risk insights & KPI storytelling in <strong>Power BI</strong><br/>
   Powered by the public <em>Lending Club</em> loan-origination dataset
